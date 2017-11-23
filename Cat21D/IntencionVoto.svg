@@ -3,7 +3,6 @@
 
 <text x="0" y="20" style="font-size:large;font-weight:bold;color:black">Intención de voto en Elecciones Autonómicas en Cataluña</text>
 <text x="0" y="40" style="color:gray">Promedio de encuestas y estimación de error</text>
-
 <text class="horizontal axis" x="36" y="333.3333">0%</text>
 <line class="horizontal axis" x1="40" y1="333.3333" x2="622.2222" y2="333.3333"></line>
 <text class="horizontal axis" x="36" y="257.1429">10%</text>
@@ -282,7 +281,7 @@
 <circle id="encuesta-24-pp" class="encuesta feedback pp" cx="40" cy="284.5714" r="3.1623" ></circle>
 <circle id="encuesta-24-otros" class="encuesta feedback otros" cx="40" cy="298.2857" r="3.1623" ></circle>
 </g>
-  
+
 <text class="pie izquierda" x="0" y="395">Datos: Electograph | Modelo propio</text>
 <text class="pie derecha" x="800" y="395">Jesús Carro | <tspan style="font-weight:bold">1datomas</tspan>.com</text>
 </svg>
