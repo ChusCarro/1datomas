@@ -205,6 +205,6 @@
 <circle id="encuesta-16-otros" class="encuesta nc_report otros" cx="88.1175" cy="311.5152" r="3.5426" ></circle>
 </g>
   
-<text class="pie izquierda" x="0" y="395">Datos: Electograph | Modelo propio</text>
-<text class="pie derecha" x="800" y="395">Jesús Carro | <tspan style="font-weight:bold">1datomas</tspan>.com</text>
+<text class="pie izquierda" x="0" y="390">Datos: Electograph | Modelo propio</text>
+<text class="pie derecha" x="800" y="390">Jesús Carro | <tspan style="font-weight:bold">1datomas</tspan>.com</text>
 </svg>
